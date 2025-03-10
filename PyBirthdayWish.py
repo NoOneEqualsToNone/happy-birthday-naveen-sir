@@ -68,6 +68,8 @@ def pcode():
         input()
 
 # Clearing terminal
+import time 
+time.sleep(8)
 os.system('cls' if os.name == 'nt' else 'clear')
 pcode()
 Thread(target = pAudio).start()
