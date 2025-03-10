@@ -64,8 +64,8 @@ def pcode():
         #     pass
         # input('\n\n'+colored(' PyBirthdayWish.py','yellow'))
         os.system('cls' if os.name == 'nt' else 'clear')
-    else:
-        input()
+    # else:
+    #     input()
 
 # Clearing terminal
 import time 
