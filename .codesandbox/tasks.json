@@ -1,0 +1,17 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  // "setupTasks": [
+  //   {
+  //     "command": "python PyBirthdayWish.py",
+  //     "name": "happy birthday naveen sir"
+  //   }
+  // ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "python PyBirthdayWish.py": {
+      "name": "python PyBirthdayWish.py",
+      "command": "python PyBirthdayWish.py"
+    }
+  }
+}
